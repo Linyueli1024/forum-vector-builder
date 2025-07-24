@@ -13,10 +13,6 @@ __pycache__/
 venv/
 env/
 
-# 本地数据库文件或向量索引
-*.faiss
-qa_mapping.json
-
 # 日志文件（如你用 pm2 或自定义日志）
 *.log
 

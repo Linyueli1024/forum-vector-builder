@@ -1,0 +1,246 @@
+[
+  {
+    "question_id": 1,
+    "qa_text": "问题：Ciminatio sodalitas crur temptatio apto conor spero cupiditas. Adipiscor defluo incidunt virga talio maxime nemo uberrime decet ea.\n"
+  },
+  {
+    "question_id": 2,
+    "qa_text": "问题：宿舍晚上几点会断电？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可以联系辅导员确认。\", \"type\": \"text\"}]}"
+  },
+  {
+    "question_id": 3,
+    "qa_text": "问题：教学楼周末开放时间是几点？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"多数情况允许，注意查看规定。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"多数情况允许，注意查看规定。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 4,
+    "qa_text": "问题：请问体测不过会影响毕业吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"需要本人携带证件去窗口办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 5,
+    "qa_text": "问题：校园卡丢了怎么办，能补办吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"具体时间以学院通知为准。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 6,
+    "qa_text": "问题：图书馆可以带食物进去吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"建议查看学校官网或微信公众号公告。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般支持网上操作，无需线下提交。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 7,
+    "qa_text": "问题：实验室使用是否需要提前预约？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"多数情况允许，注意查看规定。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可以联系辅导员确认。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 8,
+    "qa_text": "问题：请问选修课能退选吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可在教务系统查询相关内容。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般在学生事务中心可以办理。\", \"type\": \"text\"}]}"
+  },
+  {
+    "question_id": 9,
+    "qa_text": "问题：期末考试时间什么时候公布？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般在学生事务中心可以办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 10,
+    "qa_text": "问题：请假超过三天需要哪些手续？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"建议查看学校官网或微信公众号公告。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"多数情况允许，注意查看规定。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 11,
+    "qa_text": "问题：怎么查询自己的课表？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般在学生事务中心可以办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"请参考学生手册的说明。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 12,
+    "qa_text": "问题：考勤缺席三次会怎么样？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可以联系辅导员确认。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般支持网上操作，无需线下提交。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 13,
+    "qa_text": "问题：校园里可以骑电动车吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般支持网上操作，无需线下提交。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"请参考学生手册的说明。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 14,
+    "qa_text": "问题：学校有无障碍通道吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"需提前在系统申请，等待审批。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般在学生事务中心可以办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 15,
+    "qa_text": "问题：宿舍是否允许接热水器？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"具体时间以学院通知为准。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 16,
+    "qa_text": "问题：如何申请出国交换项目？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"请参考学生手册的说明。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 17,
+    "qa_text": "问题：校医院挂号流程是怎样的？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"具体时间以学院通知为准。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"建议查看学校官网或微信公众号公告。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 18,
+    "qa_text": "问题：可以申请辅修专业吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般在学生事务中心可以办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 19,
+    "qa_text": "问题：有哪些学生组织可以加入？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"请参考学生手册的说明。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 20,
+    "qa_text": "问题：四六级成绩什么时候公布？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"建议查看学校官网或微信公众号公告。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 21,
+    "qa_text": "问题：可以用校园卡乘公交吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可以联系辅导员确认。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 22,
+    "qa_text": "问题：图书馆周末开放吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可以联系辅导员确认。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 23,
+    "qa_text": "问题：体测不及格怎么办？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"需要本人携带证件去窗口办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般支持网上操作，无需线下提交。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 24,
+    "qa_text": "问题：校园卡丢了怎么补办？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"建议查看学校官网或微信公众号公告。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"需要本人携带证件去窗口办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 25,
+    "qa_text": "问题：请假流程怎么操作？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可以联系辅导员确认。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"请参考学生手册的说明。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 26,
+    "qa_text": "问题：选修课如何退选？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"需要本人携带证件去窗口办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可以联系辅导员确认。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 27,
+    "qa_text": "问题：电动车可以进校园吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可在教务系统查询相关内容。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般在学生事务中心可以办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 28,
+    "qa_text": "问题：怎么查期末考试安排？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"建议查看学校官网或微信公众号公告。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 29,
+    "qa_text": "问题：寝室几点断电？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般支持网上操作，无需线下提交。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 30,
+    "qa_text": "问题：学校有心理咨询室吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"多数情况允许，注意查看规定。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 31,
+    "qa_text": "问题：如何申请成绩单？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般支持网上操作，无需线下提交。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"请参考学生手册的说明。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 32,
+    "qa_text": "问题：四六级报名入口在哪？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般支持网上操作，无需线下提交。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可在教务系统查询相关内容。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 33,
+    "qa_text": "问题：学校期末考核标准？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"需提前在系统申请，等待审批。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"需提前在系统申请，等待审批。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 34,
+    "qa_text": "问题：能申请出国交换吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"具体时间以学院通知为准。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"请参考学生手册的说明。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 35,
+    "qa_text": "问题：图书馆能带饮料吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"请参考学生手册的说明。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"需要本人携带证件去窗口办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 36,
+    "qa_text": "问题：晚归会扣分吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"请参考学生手册的说明。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般在学生事务中心可以办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 37,
+    "qa_text": "问题：在哪看课程表？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"多数情况允许，注意查看规定。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 38,
+    "qa_text": "问题：专业能转吗？怎么申请？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可以联系辅导员确认。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 39,
+    "qa_text": "问题：哪里打印文件方便？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可在教务系统查询相关内容。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 40,
+    "qa_text": "问题：打疫苗需要预约吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"请参考学生手册的说明。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可在教务系统查询相关内容。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 41,
+    "qa_text": "问题：自习室怎么预约？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"请参考学生手册的说明。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 42,
+    "qa_text": "问题：图书馆节假日开放吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"建议查看学校官网或微信公众号公告。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"请参考学生手册的说明。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 43,
+    "qa_text": "问题：选修课如何报名？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"需要本人携带证件去窗口办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 44,
+    "qa_text": "问题：校园卡丢了怎么补办？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"建议查看学校官网或微信公众号公告。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 45,
+    "qa_text": "问题：考试时间在哪里查看？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可在教务系统查询相关内容。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 46,
+    "qa_text": "问题：可以申请缓考吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"需要本人携带证件去窗口办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 47,
+    "qa_text": "问题：寝室几点熄灯？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般在学生事务中心可以办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可在教务系统查询相关内容。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 48,
+    "qa_text": "问题：图书馆能吃东西吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"需要本人携带证件去窗口办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 49,
+    "qa_text": "问题：怎么查课程表？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"需要本人携带证件去窗口办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般支持网上操作，无需线下提交。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 50,
+    "qa_text": "问题：上课可以带电脑吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"需要本人携带证件去窗口办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"需要本人携带证件去窗口办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 51,
+    "qa_text": "问题：开学时间是几号？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"多数情况允许，注意查看规定。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"建议查看学校官网或微信公众号公告。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 52,
+    "qa_text": "问题：怎么申请奖学金？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"多数情况允许，注意查看规定。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可以联系辅导员确认。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 53,
+    "qa_text": "问题：老师联系方式在哪看？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"建议查看学校官网或微信公众号公告。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可以联系辅导员确认。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 54,
+    "qa_text": "问题：在哪里可以打疫苗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可以联系辅导员确认。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可在教务系统查询相关内容。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 55,
+    "qa_text": "问题：如何使用校园打印机？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可以联系辅导员确认。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可在教务系统查询相关内容。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 56,
+    "qa_text": "问题：能带朋友进宿舍吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可在教务系统查询相关内容。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可在教务系统查询相关内容。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 57,
+    "qa_text": "问题：四六级报名流程？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"需要本人携带证件去窗口办理。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般支持网上操作，无需线下提交。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 58,
+    "qa_text": "问题：图书馆能续借几次？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"可以联系辅导员确认。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"建议查看学校官网或微信公众号公告。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 59,
+    "qa_text": "问题：选修课可以退选吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"多数情况允许，注意查看规定。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"请参考学生手册的说明。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 60,
+    "qa_text": "问题：宿舍允许养宠物吗？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"一般支持网上操作，无需线下提交。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  },
+  {
+    "question_id": 61,
+    "qa_text": "问题：学生证丢了怎么办？\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"多数情况允许，注意查看规定。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}\n回答：{\"type\": \"richtext\", \"blocks\": [{\"data\": \"请参考学生手册的说明。\", \"type\": \"text\"}, {\"url\": \"https://i.postimg.cc/fbkhjC1z/1.jpg\", \"type\": \"image\"}, {\"url\": \"https://i.postimg.cc/L8CcXf5r/10.jpg\", \"type\": \"image\"}]}"
+  }
+]
