@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+faiss-cpu
+sentence-transformers
+sqlalchemy
+pymysql
+pandas
+numpy
+apscheduler

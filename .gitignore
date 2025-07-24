@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VSCode/IDE configs (可选)
+.vscode/
+.idea/
+
+# 虚拟环境
+venv/
+env/
+
+# 本地数据库文件或向量索引
+*.faiss
+qa_mapping.json
+
+# 日志文件（如你用 pm2 或自定义日志）
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Git 管理目录
+.git/
+
+# 临时上传的模型、缓存等（可选）
+*.pt
+*.pkl
+*.bin
+
+# 不上传 requirements 自动生成文件（如果你有 lock 文件）
+pip-selfcheck.json
